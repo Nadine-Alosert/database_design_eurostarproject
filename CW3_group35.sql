@@ -1,19 +1,3 @@
-		--CW3, DATABASE 
-		-- Group No. : 35
-	/*
-		Students involved:
-
-		Nadine Alosert ( student ID: 190075882)
-		Nada Hammad ( student ID: 180135961)
-		Anna Hruba ( student ID: 190804617)
-
-		Tomas Hrdlicka (student ID: 190495264)
-
-		We (group 35) declare that we all participated in this group work together
-
-		Chosen DB Design Scenario: Eurostar
-	*/
-
 --CREATE AND INSERT STATEMENTS
 
 --Create table TRAIN with attributes: trainID to identify each unique train, whether its operating of not (16 out of 20 trains operate at a time), train model date determines the type of routes trains are eligible for.
